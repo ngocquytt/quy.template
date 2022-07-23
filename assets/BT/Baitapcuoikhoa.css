@@ -1,0 +1,42 @@
+
+body {
+    width: 2460px;
+    height: 1920px;
+    background-repeat: no-repeat;
+    /* background-size: contain; */
+  }
+
+/* .navbar {
+    width: 560px;
+    height: 144px;
+    margin-left: 1045px;
+    margin-right: 315px;
+    margin-top: 240px;
+    margin-bottom: 1781px;
+    border: 1px solid #ffffff;
+    background-color: #ffffff;
+ 
+ } */
+
+.sitebar {
+    width: 400px;
+    height: 734px;
+    margin-left: 315px;
+    margin-right: 1205px;
+    margin-top: 241px;
+    margin-bottom: 1190px;
+    border: 1px solid #ffffff;
+    background-color: #ffffff;
+
+ }
+
+.main {
+    width: 840px;
+    height: 1678px;
+    margin-left: 755px;
+    margin-right: 315px;
+    margin-top: 424px;
+    margin-bottom: 63px;
+    border: 1px solid #ffffff;
+    background-color: #ffffff;
+ }

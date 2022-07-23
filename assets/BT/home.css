@@ -1,0 +1,40 @@
+.container{
+    width: 840px
+}
+h1, h2{
+    display: inline
+}
+
+img{
+    width: 48px;
+    border: 2px solid#cccc;
+    border-radius: 50 px;
+    height: auto;
+    float: left;
+    border-radius:50%;
+}
+.title{
+
+}
+
+.audio {
+    height: 155px;
+    display: block;
+    background-color: black;
+    margin-bottom: 12px
+}
+.lyric_-box{
+border: 1px solid#333333 ;
+padding: 20px,16px;
+}
+.funtion ul li
+{
+  
+    padding-right: 15px;
+    list-style: none;
+    display:inline-block;
+}
+.h2{
+    margin-top: 0;
+    Opacity: 0,2;
+}
